@@ -47,7 +47,7 @@
            font-family: "Times New Roman", Times, serif;
            font-size: xx-large;
            text-align: center;
-           color: rebeccapurple;
+           color: rgba(8,55,167,0.71);
        }
    </style>
 </head>
